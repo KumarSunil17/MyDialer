@@ -10,9 +10,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import java.util.List;
 
-/**
- * A simple {@link Fragment} subclass.
- */
 public class CallLogFragment extends Fragment {
     RecyclerView rv;
     PeopleAdapter a;
